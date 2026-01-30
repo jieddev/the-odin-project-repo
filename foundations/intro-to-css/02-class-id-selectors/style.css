@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-numbered {
+    background-color: rgb(255, 121, 145);
+    font-family: Verdana, sans-serif;
+}
+
+#second-element {
+    color: rgb(58, 58, 155);
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(5, 193, 5);
+    font-size: 24px;
+    font-weight: bold;
+}
